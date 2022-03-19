@@ -6,7 +6,8 @@ int main() {
   char ulang;
 
   	awal:
-  	cout << "PROGRAM CALCULATOR SEDERHANA" << endl;
+  	cout << "PROGRAM C
+    KALKULATOR SEDERHANA" << endl;
   	cout << "\n";
   	cout << "1.perkalian\n";
   	cout << "2.pembagian\n";
